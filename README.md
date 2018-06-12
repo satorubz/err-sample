@@ -1,0 +1,2 @@
+# err-sample
+errbot sample
