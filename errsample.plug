@@ -1,0 +1,6 @@
+[Core]
+Name = Errsample
+Module = errsample
+
+[Documentation]
+Description = Errbot-Sample
